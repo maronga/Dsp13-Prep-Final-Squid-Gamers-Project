@@ -38,7 +38,7 @@ The report was written using google docs.
 Project was tracked using trello.
 
 ## Support and contact details
-Incase of any issues, you can reach us at johnmaronga@gmail.com, daisylynnw@gmail.com, leengugiwainaina@gmail.com
+Incase of any issues, you can reach us at johnmaronga@gmail.com, daisylynnw@gmail.com, leengugiwainaina@gmail.com, jocinenabwire@gmail.com
 ### License
 Uses the MIT licence
 ### Copyright
